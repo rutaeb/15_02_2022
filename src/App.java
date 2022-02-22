@@ -5,6 +5,10 @@ public class App {
         System.out.println("MIKI IS THE BEST");
         System.out.println("MIKI IS THE BEST");
         System.out.println("MIKI IS THE BEST");
-        
+        System.out.println("MIKI IS THE BEST");
+        System.out.println("MIKI IS THE BEST");
+        System.out.println("MIKI IS THE BEST");
+        System.out.println("MIKI IS THE BEST");
+
     }
 }
